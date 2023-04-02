@@ -4,7 +4,7 @@ export const Form = styled.form`
     display: flex;
     flex-direction: column;
     gap: 40px;
-    border: 1px solid #212121;
+    border: 2px solid #212121;
     padding: 20px;
 `;
 
@@ -21,7 +21,7 @@ export const Input = styled.input`
 export const Button = styled.button`
     width: 100px;
     padding: 3px 8px;
-    border-radius: 5px;
+    border-radius: 4px;
     color: #000;
     background-color: white;
     :hover {

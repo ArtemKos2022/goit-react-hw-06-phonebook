@@ -34,10 +34,10 @@ export const PhoneNumber = styled.span`
 export const ButtonDelete = styled.button`
     background-color: #fff;
     color: #000;
-    border-radius: 10px;
+    border-radius: 4px;
     padding: 1px 4px;
     font-size: 12px;
-    margin-left: 20px;
+    margin-left: 80px;
     :hover {
         background-color: #7ea3e9;
         color: #fff;
